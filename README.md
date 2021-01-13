@@ -12,4 +12,5 @@
 ![](screenshots/Calc_bin.png)
 ![](screenshots/Calc_hex.png)
 ![](screenshots/Calc_oct.png)
+    Decimal number
 ![](screenshots/dec.png)
