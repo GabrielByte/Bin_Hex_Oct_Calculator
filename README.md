@@ -9,7 +9,10 @@
 
 # Screenshots
 
-#50/10 to binary
+#Decimal number (/10)
+![](screenshots/dec.png)
+
+# 50/10 to binary
 ![](screenshots/Calc_bin.png)
 
 # 50/10 to hexadecimal
@@ -17,6 +20,3 @@
 
 # 50/10 to octal
 ![](screenshots/Calc_oct.png)
-
-#Decimal number (/10)
-![](screenshots/dec.png)
