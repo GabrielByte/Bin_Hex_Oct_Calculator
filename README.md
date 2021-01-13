@@ -9,7 +9,7 @@
 
 # Screenshots
 
-#Decimal number (/10)
+# Decimal number (/10)
 ![](screenshots/dec.png)
 
 # 50/10 to binary
